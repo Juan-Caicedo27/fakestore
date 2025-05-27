@@ -1,0 +1,5 @@
+{
+  "appId": "con.fakestore.app",
+  "appName": "fakestore",
+  "webDir": "dist"
+}
